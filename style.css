@@ -1,0 +1,58 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+}
+header {
+  background: #5b2a86;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 60px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.hero {
+  padding: 50px 20px;
+  text-align: center;
+  background: white;
+}
+.icons img {
+  height: 50px;
+  margin: 10px;
+}
+.pricing {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px 20px;
+  background: #fff;
+}
+.card {
+  background: #eee;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  border-radius: 8px;
+}
+footer {
+  background: #5b2a86;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}

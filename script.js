@@ -1,0 +1,1 @@
+console.log('RK Power Platform Academy loaded.');
